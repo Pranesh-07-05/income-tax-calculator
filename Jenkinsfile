@@ -11,7 +11,7 @@ pipeline {
 
         stage('Clone Repository') {
             steps {
-                git 'https://github.com/YOUR_USERNAME/income-tax-calculator.git'
+                git  'https://github.com/Pranesh-07-05/income-tax-calculator.git''
             }
         }
 
